@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : potatosalad blog
-tagline: huh?
+title : potatosalad
+tagline: @potatosaladx
 author :
   name : Andrew Bennett
   email : potatosaladx@gmail.com
